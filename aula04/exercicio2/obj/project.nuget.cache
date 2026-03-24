@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "HZ3bKMDbdeo=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Alunos\\Desktop\\LPR_2026\\aula04\\exercicio2\\exercicio2.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "HZ3bKMDbdeo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alunos\\Desktop\\LPR_2026\\aula04\\exercicio2\\exercicio2.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 71786aded0e7a2ca5bbb20c3a4461b19031a6d44
 }
