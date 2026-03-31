@@ -1,0 +1,5 @@
+C:\Users\Alunos\Desktop\LPR_2026\aula06\exercicio3\obj\Debug\net9.0\exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_2026\aula06\exercicio3\obj\Debug\net9.0\exercicio3.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026\aula06\exercicio3\obj\Debug\net9.0\exercicio3.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_2026\aula06\exercicio3\obj\Debug\net9.0\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026\aula06\exercicio3\obj\Debug\net9.0\exercicio3.sourcelink.json
