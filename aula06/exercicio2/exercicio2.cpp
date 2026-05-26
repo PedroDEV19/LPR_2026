@@ -75,7 +75,7 @@ int main() {
                 break;
             }
             case 2: {
-                // Intervalo fixo de 50 a 500 conforme solicitado
+                // i ntervalo fixo de 50 a 500 conforme solicitado
                 int resultado = somarImparesMultiplos3(50, 500);
                 cout << "A soma no intervalo [50, 500] eh: " << resultado << endl;
                 break;
