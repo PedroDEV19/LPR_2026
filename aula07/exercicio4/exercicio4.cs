@@ -12,7 +12,7 @@ class Program
         for (int i = 0; i < 3; i++)
         {
             for (int j = 0; j < 3; j++)
-            {
+          {
                 Console.Write($"A[{i},{j}] = ");
                 A[i, j] = int.Parse(Console.ReadLine());
             }
